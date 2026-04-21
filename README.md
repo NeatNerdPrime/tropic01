@@ -7,7 +7,7 @@ The hardware RTL, firmware source, and security architecture are open for review
 
 
 > [!NOTE]
-> Join our community on [Discord](https://discord.gg/d4wNpvXskM)!
+> Join our community on [Discord](https://discord.gg/Tc3yJmFCnV)!
 
 ### Get Started with TROPIC01
 
