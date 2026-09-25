@@ -30,4 +30,5 @@ TROPIC01 manager - graphical GUI to help with chip evaluation.
 **[stm32_trustzone_demo](https://github.com/OndraBeran/stm32_trustzone_demo)**
 STM32 TrustZone demo integration for TROPIC01.
 
-
+**[nixtropic](https://github.com/jjacke13/nixtropic)**
+Open-source FIDO2/WebAuthn and OpenPGP card firmware for the TS1302 USB security dongle, using TROPIC01 for cryptographic operations.
